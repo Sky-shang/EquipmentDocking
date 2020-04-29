@@ -1,0 +1,5 @@
+F:\Work\master\EquipmentDocking\EquipmentDocking\obj\Debug\netcoreapp3.1\EquipmentDocking.csprojAssemblyReference.cache
+F:\Work\master\EquipmentDocking\EquipmentDocking\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Work\master\EquipmentDocking\EquipmentDocking\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Work\master\EquipmentDocking\EquipmentDocking\obj\Debug\netcoreapp3.1\EquipmentDocking_MarkupCompile.cache
+F:\Work\master\EquipmentDocking\EquipmentDocking\obj\Debug\netcoreapp3.1\EquipmentDocking_MarkupCompile.lref
