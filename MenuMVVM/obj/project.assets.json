@@ -92,23 +92,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shang\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Work\\master\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
+      "projectUniqueName": "E:\\work\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
       "projectName": "MenuMVVM",
-      "projectPath": "F:\\Work\\master\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
-      "packagesPath": "C:\\Users\\shang\\.nuget\\packages\\",
-      "outputPath": "F:\\Work\\master\\EquipmentDocking\\MenuMVVM\\obj\\",
+      "projectPath": "E:\\work\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
+      "packagesPath": "C:\\Users\\yuankun.shang\\.nuget\\packages\\",
+      "outputPath": "E:\\work\\EquipmentDocking\\MenuMVVM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\shang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yuankun.shang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

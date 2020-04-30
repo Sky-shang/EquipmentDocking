@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj": {}
+    "E:\\work\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj": {}
   },
   "projects": {
-    "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj": {
+    "E:\\work\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
+        "projectUniqueName": "E:\\work\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
         "projectName": "EquipmentDocking",
-        "projectPath": "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
-        "packagesPath": "C:\\Users\\shang\\.nuget\\packages\\",
-        "outputPath": "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\obj\\",
+        "projectPath": "E:\\work\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
+        "packagesPath": "C:\\Users\\yuankun.shang\\.nuget\\packages\\",
+        "outputPath": "E:\\work\\EquipmentDocking\\EquipmentDocking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\shang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yuankun.shang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

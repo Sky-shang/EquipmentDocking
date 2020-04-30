@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UpzfSzKk+dlarZX1m31e1HuqRwj4OqHTR49SnkMGsJ80/kBPU26ZmZyQQkjG6uZKCP3NhsKLrGrh+HmMKWDJhQ==",
+  "dgSpecHash": "jwhSjUdxQkUcg3QF+JSMbijLF8GbPHXm2TBGU64qD4l4BLFXYZD+4BSbLy5Lunol6TYdUFOBj08wGKitewHr9A==",
   "success": true,
-  "projectFilePath": "F:\\Work\\master\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
+  "projectFilePath": "E:\\work\\EquipmentDocking\\MenuMVVM\\MenuMVVM.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shang\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
   ],
   "logs": []
 }

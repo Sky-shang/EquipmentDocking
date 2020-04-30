@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "Egn0gcKIiitma/Q2ZvR241p7oo8lBNWrxus6g8h3y5Q1Yvzi7GuNKGbCWfCQ2DCQVUy1l4jyRiuBj1p8jFJ7uw==",
+  "dgSpecHash": "U90AjFoMkwxyQu7wq+uDiHWx5cm1CJosSinaXvMAaMzdBQFzy6g26z85nLF4YfuNNN0pVtY45o+cMTmWdU2OVg==",
   "success": true,
-  "projectFilePath": "F:\\Work\\master\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
+  "projectFilePath": "E:\\work\\EquipmentDocking\\EquipmentDocking\\EquipmentDocking.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.3\\microsoft.extensions.options.configurationextensions.3.1.3.nupkg.sha512",
-    "C:\\Users\\shang\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.3\\microsoft.extensions.options.configurationextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\yuankun.shang\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
   ],
   "logs": []
 }
